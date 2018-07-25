@@ -28,6 +28,10 @@ buffer names.
 
 Install the `ivy` package from MELPA / GNU ELPA.
 
+Users of Debian ≥10 (and derivatives such as Ubuntu ≥18.04) can
+install Ivy, Counsel, and Swiper with `sudo apt elpa-counsel`.  Hydra
+support is in the "elpa-ivy-hydra" package.
+
 ## Documentation
 
 ### Manual
